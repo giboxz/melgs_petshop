@@ -7,30 +7,18 @@ CREATE TABLE petshop (
     rua VARCHAR(50)
 );
 
-CREATE TABLE consulta (
+CREATE TABLE produto (
     id INTEGER NOT NULL AUTO_INCREMENT PRIMARY KEY,
-    id_petshop INTEGER NOT NULL,
-    id_animal INTEGER NOT NULL,
-    id_veterinario INTEGER NOT NULL,
-    created_at DATETIME,
-    valor REAL,
-    diagnostico TEXT,
-    tratamento TEXT
+    nome VARCHAR(50),
+    descricao TEXT,
+    categoria VARCHAR(50),
+    valor REAL
 );
 
-CREATE TABLE produtos_petshop (
-    id_produto INTEGER NOT NULL,
-    id_petshop INTEGER NOT NULL
-);
-
-CREATE TABLE petshop_veterinario (
-    id_petshop INTEGER NOT NULL,
-    id_veterinario INTEGER NOT NULL
-);
-
-CREATE TABLE petshop_tipoexame (
-    id_petshop INTEGER NOT NULL,
-    id_exame INTEGER NOT NULL
+CREATE TABLE exame (
+    id INTEGER NOT NULL AUTO_INCREMENT PRIMARY KEY,
+    nome VARCHAR(50),
+    valor REAL
 );
 
 CREATE TABLE veterinario (
@@ -70,9 +58,15 @@ CREATE TABLE animal (
     nascimento DATE
 );
 
-CREATE TABLE animal_cliente (
+CREATE TABLE consulta (
+    id INTEGER NOT NULL AUTO_INCREMENT PRIMARY KEY,
+    id_petshop INTEGER NOT NULL,
     id_animal INTEGER NOT NULL,
-    id_cliente INTEGER NOT NULL
+    id_veterinario INTEGER NOT NULL,
+    created_at DATETIME,
+    valor REAL,
+    diagnostico TEXT,
+    tratamento TEXT
 );
 
 CREATE TABLE registro_exame (
@@ -82,20 +76,6 @@ CREATE TABLE registro_exame (
     valor REAL,
     resultado TEXT,
     created_at DATETIME
-);
-
-CREATE TABLE exame (
-    id INTEGER NOT NULL AUTO_INCREMENT PRIMARY KEY,
-    nome VARCHAR(50),
-    valor REAL
-);
-
-CREATE TABLE produto (
-    id INTEGER NOT NULL AUTO_INCREMENT PRIMARY KEY,
-    nome VARCHAR(50),
-    descricao TEXT,
-    categoria VARCHAR(50),
-    valor REAL
 );
 
 CREATE TABLE estoque (
@@ -112,4 +92,25 @@ CREATE TABLE venda (
     created_at DATETIME,
     quantidade INTEGER,
     valor REAL
+);
+
+CREATE TABLE produtos_petshop (
+    id_produto INTEGER NOT NULL,
+    id_petshop INTEGER NOT NULL
+);
+
+CREATE TABLE petshop_veterinario (
+    id_petshop INTEGER NOT NULL,
+    id_veterinario INTEGER NOT NULL
+);
+
+CREATE TABLE petshop_exame (
+    id_petshop INTEGER NOT NULL,
+    id_exame INTEGER NOT NULL
+);
+
+
+CREATE TABLE animal_cliente (
+    id_animal INTEGER NOT NULL,
+    id_cliente INTEGER NOT NULL
 );
