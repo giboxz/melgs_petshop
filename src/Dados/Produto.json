@@ -1,0 +1,161 @@
+[
+    {
+        "nome": "Ração Royal Canin Golden Retriever - Cães Adultos - 12kg",
+	    "descricao": "Linha Super Premium contendo 12kg a embalagem. Ração seca.",
+	    "categoria": "Alimentos" ,
+        "valor": "360.00"
+    },
+
+    {
+        "nome": "Ração Úmida GranPlus Gourmet Sachê para Cães Adultos Sabor Ovelha - 100g",
+	    "descricao": "Linha Super Premium contendo 100g a embalagem. Ração úmida.",
+	    "categoria": "Alimentos" ,
+        "valor": "2.99"
+    },
+
+    {
+        "nome": "Ração Golden Fórmula Mini Bits Para Cães Adultos Pequeno Porte Sabor Carne e Arroz",
+	    "descricao": "Linha Premium contendo 15kg a embalagem. Ração úmida.",
+	    "categoria": "Alimentos" ,
+        "valor": "154.90"
+    },
+    {
+        "nome": "Ração GranPlus Choice para Gatos Adultos Sabor Frango e Carne 10,1kg",
+	    "descricao": "Linha High Premium contendo 10,1kg a embalagem. Ração seca.",
+	    "categoria": "Alimentos" ,
+        "valor": "131.99"
+    },
+
+    {
+        "nome": "Ração Premier para Gatos Castrados de 6 meses a 6 anos Sabor Salmão",
+	    "descricao": "Linha Super Premium contendo 500g a embalagem. Ração úmida.",
+	    "categoria": "Alimentos" ,
+        "valor": "28.99"
+    },
+
+    {
+        "nome": "Ração Úmida Royal Canin Sachê para Gatos Adultos Castrados - 85g",
+	    "descricao": "Linha Premium contendo 85g a embalagem. Ração úmida.",
+	    "categoria": "Alimentos" ,
+        "valor": "9.99"
+    },
+
+    {
+        "nome": "Ração Zootekna para Calopsitas Mistura de Sementes",
+	    "descricao": "Linha Super Premium contendo 500g a embalagem. Indicada para calopsitas e agapornis.",
+	    "categoria": "Alimentos" ,
+        "valor": "8.99"
+    },
+
+    {
+        "nome": "Alimento para Peixe Tetra Peixe TetraMin Flakes",
+	    "descricao": "Linha Premium contendo 20g a embalagem. Ração úmida.",
+	    "categoria": "Alimentos" ,
+        "valor": "21.99"
+    },
+    
+    {
+        "nome": "Alimento Pássaro Petz Mix Integrais para Calopsita",
+	    "descricao": "Linha Super Premium contendo 300g a embalagem.",
+	    "categoria": "Alimentos" ,
+        "valor": "28.99"
+    },
+
+    {
+        "nome": "Ração Alcon Guard Allium para Peixe 20g",
+	    "descricao": "Linha Premium contendo 20g a embalagem.",
+	    "categoria": "Alimentos" ,
+        "valor": "20.99"
+    },
+
+    {
+        "nome": "Coleira com Guia Toh para Cães Laguna",
+	    "descricao": "Coleira com guia para filhotes, adultos e seniores.",
+	    "categoria": "Acessórios" ,
+        "valor": "52.50"
+    },
+
+    {
+        "nome": "Coleira K9 Spirit Cabresto para Cães Preta",
+	    "descricao": "Coleira com guia para filhotes, adultos e seniores. Auxilia no adestramento.",
+	    "categoria": "Acessórios" ,
+        "valor": "129.99"
+    },
+
+    {
+        "nome": "Peitoral Cat Fita Califórnia para Gatos",
+	    "descricao": "Coleira regulável e segura para gatos",
+	    "categoria": "Acessórios" ,
+        "valor": "35.00"
+    },
+
+    {
+        "nome": "Peitoral e Guia MeuMiAu Style Chique para Gatos",
+	    "descricao": "Peitoral e guia estampados, resistente e confortável para gatos",
+	    "categoria": "Acessórios" ,
+        "valor": "57.90"
+    },
+
+    {
+        "nome": "Gaiola Bragança Criadeira Branca com Bandeja para Calopsitas",
+	    "descricao": "Habitat confortável indicado para aves.",
+	    "categoria": "Gaiolas" ,
+        "valor": "548.99"
+    },
+
+    {
+        "nome": "Gaiola para Pássaros Quatiguá Capela Prata para Canários",
+	    "descricao": "Habitat confortável indicado para aves.",
+	    "categoria": "Gaiolas",
+        "valor": "106.99"
+    },
+
+    {
+        "nome": "Nexgard - Antipulgas e Carrapatos",
+	    "descricao": "Indicado para cães de 4 à 10kg. Contém 3 pílulas. Ação imunizante por 30 dias.",
+	    "categoria": "Medicamentos" ,
+        "valor": "70.30"
+    },
+
+    {
+        "nome": "Antipulgas Simparic 20 mg para cães 5,1 a 10 kg - Zoetis",
+	    "descricao": "Indicado para cães de 5 à 10kg. Contém 1 comprimido. Ação imunizante por 30 dias.",
+	    "categoria": "Medicamentos" ,
+        "valor": "95.99"
+    },
+
+    {
+        "nome": "Bactericida Atlantys Mundo Animal para Peixes 15ml",
+	    "descricao": "Auxilia na prevenção e tratamento de infecções bacterianas. Ideal para peixes tropicais.",
+	    "categoria": "Medicamentos" ,
+        "valor": "31.99"
+    },
+
+    {
+        "nome": "Probiótico Pet Avert 14g",
+	    "descricao": "Indicado para cães e gatos. Composto por microorganismos vivos (Lactobacillus acidophilus e Enterococcus faecium).",
+	    "categoria": "Medicamentos" ,
+        "valor": "95.99"
+    },
+
+    {
+        "nome": "Aquário Boyu Curvo 120E 200 Litros Preto 220V",
+        "descricao": "Aquário para peixes. Possui todos os equipamentos necessários para o aquário funcionar.",
+        "categoria":"Aquários" ,
+        "valor": "3299.99"
+    },
+
+    {
+        "nome": "Aquário de Vidro Retangular Teruo Yamamoto para Peixes",
+        "descricao": "Aquário para peixes. Bonito, prático e resistente.",
+        "categoria":"Aquários" ,
+        "valor": "78.99"
+    },
+    
+    {
+        "nome": "Kit Meu Primeiro Aquário 20L Aquaterrário",
+        "descricao": "Aquário retangular para peixes. Bonito, prático e resistente.",
+        "categoria":"Aquários" ,
+        "valor": "259.99"
+    } 
+]

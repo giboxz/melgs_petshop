@@ -1,0 +1,45 @@
+if 
+  	this >= 1 and this <= 9 then 'Marquês de Maricá'
+elsif 
+	this >= 10 and this <= 19 then 'Sertanópolis'
+elsif 
+	this >= 20 and this <= 29 then 'Visconde de Itaboraí'
+elsif 
+  	this >= 30 and this <= 39 then 'Carlos Drummond'
+elsif 
+  	this >= 40 and this <= 49 then 'Vasco Cirquine'  
+elsif 
+    this >= 50 and this <= 59 then'Garanhuns'
+elsif 
+    this >= 60 and this <= 69 then 'Limoeiro do Norte'
+elsif 
+    this >= 70 and this <= 79 then 'Vicente de Carvalho'
+elsif 
+    this >= 80 and this <= 89 then 'José Pessoa'
+elsif 
+    this >= 90 and this <= 99 then 'Acaiaca'
+elsif 
+    this >= 100 and this <= 109 then 'Abigail Bastos Russell'
+elsif 
+    this >= 110 and this <= 119 then 'Pastor José Joaquim dos Santos'
+elsif 
+    this >= 120 and this <= 129 then 'Avenida Boa Viagem'
+elsif 
+    this >= 130 and this <= 139 then 'Rua dos Navegantes'
+elsif 
+    this >= 140 and this <= 149 then 'Avenida Engenheiro Domingos Ferreira'
+elsif 
+    this >= 150 and this <= 159 then 'Avenida Conselheiro Aguiar'
+elsif 
+    this >= 160 and this <= 169 then 'Avenida Caxangá'
+elsif 
+    this >= 170 and this <= 179 then 'Rua Setúbal'
+elsif 
+    this >= 180 and this <= 189 then 'Rua Francisco da Cunha'
+elsif 
+    this >= 190 and this <= 199 then 'Avenida Governador Agamenon Magalhães'
+elsif 
+    this >= 200 and this <= 209 then 'Dom Lustosa'
+else 
+	'Osvaldo Freire'
+end

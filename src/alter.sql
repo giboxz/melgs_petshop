@@ -22,6 +22,10 @@ ALTER TABLE estoque ADD CONSTRAINT fk_id_produto_estoque
     FOREIGN KEY (id_produto)
     REFERENCES produto(id);
 
+ALTER TABLE estoque ADD CONSTRAINT fk_id_petshop_estoque
+    FOREIGN KEY (id_petshop)
+    REFERENCES petshop(id);
+
 ALTER TABLE venda ADD CONSTRAINT fk_id_produto_venda
     FOREIGN KEY (id_produto)
     REFERENCES produto(id);
@@ -30,11 +34,7 @@ ALTER TABLE venda ADD CONSTRAINT fk_id_cliente_venda
     FOREIGN KEY (id_cliente)
     REFERENCES cliente(id);
 
-ALTER TABLE produtos_petshop ADD CONSTRAINT fk_id_produto_produtos_petshop
-    FOREIGN KEY (id_produto)
-    REFERENCES produto(id);
-
-ALTER TABLE produtos_petshop ADD CONSTRAINT fk_id_petshop_produtos_petshop
+ALTER TABLE venda ADD CONSTRAINT fk_id_petshop_venda
     FOREIGN KEY (id_petshop)
     REFERENCES petshop(id);
 

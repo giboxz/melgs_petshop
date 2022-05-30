@@ -1,5 +1,7 @@
 CREATE TABLE petshop (
     id INTEGER NOT NULL AUTO_INCREMENT PRIMARY KEY,
+    nome VARCHAR(50),
+    telefone VARCHAR(50),
     cnpj VARCHAR(14),
     cep VARCHAR(8),
     estado VARCHAR(2),
@@ -33,6 +35,7 @@ CREATE TABLE veterinario (
     rua VARCHAR(50),
     email VARCHAR(50),
     telefone VARCHAR(50),
+    crmv VARCHAR(5),
     especialidade VARCHAR(50)
 );
 
@@ -54,7 +57,7 @@ CREATE TABLE animal (
     id INTEGER NOT NULL AUTO_INCREMENT PRIMARY KEY,
     nome VARCHAR(50),
     especie VARCHAR(50),
-    raca VARCHAR(50),
+    porte VARCHAR(10),
     nascimento DATE
 );
 
@@ -80,6 +83,7 @@ CREATE TABLE registro_exame (
 
 CREATE TABLE estoque (
     id INTEGER NOT NULL AUTO_INCREMENT PRIMARY KEY,
+    id_petshop INTEGER NOT NULL,
     id_produto INTEGER NOT NULL,
     created_at DATETIME,
     quantidade INTEGER
@@ -87,16 +91,12 @@ CREATE TABLE estoque (
 
 CREATE TABLE venda (
     id INTEGER NOT NULL AUTO_INCREMENT PRIMARY KEY,
+    id_petshop INTEGER NOT NULL,
     id_produto INTEGER NOT NULL,
     id_cliente INTEGER NOT NULL,
     created_at DATETIME,
     quantidade INTEGER,
     valor REAL
-);
-
-CREATE TABLE produtos_petshop (
-    id_produto INTEGER NOT NULL,
-    id_petshop INTEGER NOT NULL
 );
 
 CREATE TABLE petshop_veterinario (

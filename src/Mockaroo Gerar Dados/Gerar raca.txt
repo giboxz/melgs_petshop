@@ -1,0 +1,38 @@
+if 
+  	field("especie") == 'Cachorro' then 
+    	if this >=1 and this <= 9 then 'Shih-Tzu'
+        elsif this >=10 and this <= 19 then 'Poodle'
+        else 'Labrador'
+        end
+elsif 
+	field("especie") == 'Gato' then 
+      if this >=1 and this <= 9 then 'Siamês'
+      elsif this >=10 and this <=19 then 'Persa'
+      else 'Vira-lata'
+      end
+elsif 
+	field("especie") == 'Roedor' then 
+      if this >=1 and this <= 9 then 'Hamster'
+      elsif this >=10 and this <=19 then 'Porquinho da Índia'
+      else 'Camundongo'
+      end        
+elsif 
+	field("especie") == 'Pássaro' then 
+      if this >=1 and this <= 9 then 'Azulão'
+      elsif this >=10 and this <=19 then 'Calopsita'
+      else 'Periquito'
+      end             
+        
+elsif 
+	field("especie") == 'Peixe' then 
+      if this >=1 and this <= 9 then 'Peixe-Palhaço'
+      elsif this >=10 and this <=19 then 'Beta'
+      else 'Kinguio'
+      end     
+elsif 
+       field("especie") == 'Tartaruga' then 
+      if this >=1 and this <= 9 then 'Da Madeira'
+      elsif this >=10 and this <=19 then 'Pintada'
+      else 'Cágado'
+      end     
+end

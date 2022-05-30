@@ -1,0 +1,30 @@
+[
+    {
+        "nome": "Hemograma",
+        "valor": "35.00"
+    },
+    {
+        "nome": "Exame de urina",
+        "valor": "27.00"
+    },
+    {
+        "nome": "Exame coproparasitológico (exame de fezes)",
+        "valor": "36.00"
+    },
+    {
+        "nome": "Função hepática",
+        "valor": "70.00"
+    },
+    {
+        "nome": "Ultrassonografia abdominal",
+        "valor": "100.00"
+    },
+    {
+        "nome": "Eletrocardiograma",
+        "valor": "150.00"
+    },
+    {
+        "nome": "Exame sorológico para FIV e FeLV",
+        "valor": "75.00"
+    }
+]

@@ -1,0 +1,13 @@
+if 
+  	this >= 1 and this <= 9 then 'Gato'
+elsif 
+	this >= 10 and this <= 19 then 'Cachorro'
+elsif 
+	this >= 20 and this <= 29 then 'Roedor'
+elsif 
+  	this >= 30 and this <= 39 then 'Pássaro'
+elsif 
+  	this >= 40 and this <= 49 then 'Peixe'
+else 
+    'Tartaruga'
+end

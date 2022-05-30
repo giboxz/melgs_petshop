@@ -1,0 +1,23 @@
+if 
+  	this >= 1 and this <= 9 then 'Clínica e Cirúrgica'
+elsif 
+	this >= 10 and this <= 19 then 'Laboratorial'
+elsif 
+	this >= 20 and this <= 29 then 'Agronegócio e Produção Animal'
+elsif 
+  	this >= 30 and this <= 39 then 'Vigilância e Inspeção'
+elsif 
+  	this >= 40 and this <= 49 then 'Anestesia'  
+elsif 
+    this >= 50 and this <= 59 then 'Farmácia Veterinária'
+elsif 
+    this >= 60 and this <= 69 then 'Responsável Técnico em Zoológico'
+elsif 
+    this >= 70 and this <= 79 then 'Pesquisa'
+elsif 
+    this >= 80 and this <= 89 then 'Cuidado com Animais Silvestres'
+elsif 
+    this >= 90 and this <= 99 then 'Oftalmologia Veterinária'
+else 
+	'Fisioterapia Veterinária'
+end
