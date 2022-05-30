@@ -1,0 +1,47 @@
+if field("id_produto") == 1
+  then 360.00
+elsif field("id_produto") == 2
+  then 2.99
+elsif field("id_produto") == 3
+  then 154.90
+elsif field("id_produto") == 4
+  then 131.99
+elsif field("id_produto") == 5
+  then 28.99
+elsif field("id_produto") == 6
+  then 9.99
+elsif field("id_produto") == 7
+  then 8.99
+elsif field("id_produto") == 8
+  then 21.99
+elsif field("id_produto") == 9
+  then 28.99
+elsif field("id_produto") == 10
+  then 20.99
+elsif field("id_produto") == 11
+  then 52.50
+elsif field("id_produto") == 12
+  then 129.99
+elsif field("id_produto") == 13
+  then 35.00
+elsif field("id_produto") == 14
+  then 57.90
+elsif field("id_produto") == 15
+  then 548.99
+elsif field("id_produto") == 16
+  then 106.99
+elsif field("id_produto") == 17
+  then 70.30
+elsif field("id_produto") == 18
+  then 95.99
+elsif field("id_produto") == 19
+  then 31.99
+elsif field("id_produto") == 20
+  then 95.99
+elsif field("id_produto") == 21
+  then 3299.99
+elsif field("id_produto") == 22
+  then 78.99
+elsif field("id_produto") == 23
+  then 259.99
+end
