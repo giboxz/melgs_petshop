@@ -1,0 +1,201 @@
+id_petshop,id_animal,id_veterinario,created_at,valor,diagnostico,tratamento
+6,16,38,2020-09-04,111.05,Other destruction of lesion or tissue of stomach,"Spotting complicating pregnancy, unspecified as to episode of care or not applicable"
+5,87,9,2020-03-23,237.32,Radical dissection of thoracic structures,Need for prophylactic vaccination and inoculation against diptheria-tetanus- pertussis with typhoid-paratyphoid (DTP + TAB)
+3,35,46,2020-02-29,225.24,Other bilateral ligation and crushing of fallopian tubes,Papanicolaou smear of anus with low grade squamous intraepithelial lesion (LGSIL)
+3,61,14,2020-11-06,168.89,Hypnotherapy,Other specified types of plague
+1,102,7,2020-03-25,135.11,Postoperative revision of scleral fistulization procedure,Misery and unhappiness disorder specific to childhood and adolescence
+4,144,40,2020-03-12,181.90,"Osteopathic manipulative treatment using isotonic, isometric forces",Influenza due to identified avian influenza virus with other respiratory manifestations
+2,196,15,2020-09-23,70.14,Biopsy of lip,Hydroureter
+1,81,44,2021-04-21,105.43,Intravascular pressure measurement of peripheral arteries,"Deep necrosis of underlying tissues [deep third degree] with loss of a body part, of eye (with other parts of face, head, and neck)"
+3,152,11,2022-02-14,154.19,Closed [percutaneous] [needle] biopsy of kidney,"Obstetrical pyemic and septic embolism, antepartum condition or complication"
+2,26,2,2020-12-16,164.59,Other consultation,Babesiosis
+1,11,24,2022-05-15,104.76,Closed [percutaneous] [needle] biopsy of cranial or peripheral nerve or ganglion,Gastrointestinal mucositis (ulcerative)
+1,12,45,2021-01-16,137.52,Repair of adrenal gland,Other sprains and strains of ankle
+1,210,25,2021-05-11,145.72,Other x-ray of abdomen,Screening for other eye conditions
+3,172,39,2020-07-23,92.85,Laparoscopic lysis of perirenal or periureteral adhesions,Occlusion and stenosis of other specified precerebral artery without mention of cerebral infarction
+2,170,13,2020-10-06,73.56,Crisis intervention,Other benign neoplasm of connective and other soft tissue of other specified sites
+5,171,16,2021-11-25,214.81,Intrauterine transfusion,"Other closed skull fracture without mention of intracranial injury, with moderate [1-24 hours] loss of consciousness"
+4,196,16,2020-10-07,164.10,Unilateral destruction or occlusion of fallopian tube,"Tuberculosis of lung, nodular, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]"
+3,99,1,2021-02-06,69.80,"Limb shortening procedures, carpals and metacarpals",Malignant melanoma of other specified sites of skin
+1,68,40,2021-01-08,233.32,Artificial pacemaker voltage or amperage threshold check,Unspecified agent primarily affecting skin and mucous membrane causing adverse effects in therapeutic use
+3,58,9,2021-03-10,134.79,"Limb lengthening procedures, carpals and metacarpals","Nonallopathic lesions, thoracic region"
+2,7,34,2019-12-03,164.22,"Other local excision or destruction of lesion of joint, elbow","Chronic gastric ulcer without mention of hemorrhage or perforation, without mention of obstruction"
+4,188,37,2020-02-07,144.73,General physical examination,Postphlebetic syndrome with other complication
+6,198,40,2021-02-14,138.17,"Revision of hip replacement, not otherwise specified",Malignant neoplasm of posterior wall of urinary bladder
+4,223,47,2022-01-29,159.16,Closure of cholecystostomy,Postmenopausal atrophic vaginitis
+4,109,17,2021-02-03,78.83,Nephrectomy of remaining kidney,Other respiratory problems after birth
+6,78,2,2019-06-27,233.52,"Other excision of vessels, lower limb arteries",Screening for malignant neoplasms of testis
+6,2,47,2020-12-10,68.33,Operations on trabeculae carneae cordis,"Chronic osteomyelitis, other specified sites"
+6,227,16,2020-07-05,125.69,Other repair of anal sphincter,Pain in limb
+6,105,50,2019-10-02,85.10,Application of orthodontic appliance,Drug induced neutropenia
+2,126,31,2019-06-27,99.89,Excision of muscle or fascia of hand for graft,"Injury to liver with open wound into cavity, unspecified injury"
+3,185,1,2020-03-14,130.54,Aspiration of skin and subcutaneous tissue,"Other symptoms referable to joint, shoulder region"
+2,51,33,2021-06-28,205.54,Other operations on ovary,Suicide and self-inflicted injuries by jumping from residential premises
+5,174,5,2021-04-15,78.74,Excision of skin for graft,Follicular cyst of ovary
+2,210,15,2019-09-02,139.33,Multi-source photon radiosurgery,"Chondrocalcinosis, due to dicalcium phosphate crystals, hand"
+4,36,28,2021-11-26,85.70,Repair of cystocele,"Primary tuberculous infection, unspecified"
+5,137,28,2021-05-17,176.70,Closed (percutaneous) [needle] biopsy of liver,"Tuberculoma of brain, unspecified"
+3,230,48,2022-03-07,208.91,Other unilateral oophorectomy,Chondritis of pinna
+5,150,16,2019-07-24,152.77,Spinal subarachnoid-ureteral shunt,Other and unspecified water transport accident injuring swimmer
+3,142,35,2021-08-25,98.75,Esophageal speech training,"Suicide and self-inflicted injury by firearms and explosives, unspecified"
+3,222,13,2020-02-16,220.28,Ophthalmologic counseling and instruction,Malignant neoplasm of appendix vermiformis
+6,188,25,2021-04-12,135.46,Release of carpal tunnel,Cellulitis and abscess of other specified sites
+4,113,38,2021-03-14,122.12,"Other diagnostic procedures on retina, choroid, vitreous, and posterior chamber",North Asian tick fever
+4,139,43,2020-12-25,114.99,"Endarterectomy, intracranial vessels",Posterior corneal pigmentations
+1,210,43,2022-05-10,99.59,Pressure measurement of sphincter of Oddi,"Other closed skull fracture with subarachnoid, subdural, and extradural hemorrhage, with concussion, unspecified"
+6,233,34,2021-02-23,149.33,Injection of antidote,"Rheumatism, unspecified and fibrositis"
+4,51,38,2021-05-09,180.98,Plication of the diaphragm,"Open fracture of base of skull without mention of intracranial injury, with prolonged [more than 24 hours] loss of consciousness and return to pre-existing conscious level"
+4,224,3,2022-05-02,99.02,Incision of lid margin,Cowpox
+5,232,50,2020-02-10,146.11,Implantation or replacement of subcutaneous device for intracardiac or great vessel hemodynamic monitoring,Syphilitic iridocyclitis (secondary)
+3,176,17,2022-05-08,209.14,Procedure on three vessels,Leukoplakia of vagina
+3,243,31,2022-04-12,160.60,"Partial excision of pituitary gland, transfrontal approach","""Light-for-dates""with signs of fetal malnutrition, 2,000-2,499 grams"
+5,160,16,2021-04-25,223.80,Dilation of urethra,"Latent schizophrenia, subchronic with acute exacerbation"
+6,28,32,2021-09-17,191.29,Intracranial pressure monitoring,Toxic effect of caustic alkalis
+2,193,33,2019-10-22,222.10,Full-mouth x-ray of teeth,Other abnormal clinical findings
+2,184,14,2020-11-19,131.92,"Unspecified operation on bone injury, other specified bone",Other motor vehicle nontraffic accident while boarding and alighting injuring motorcyclist
+4,99,20,2019-07-14,70.19,Administration of inhaled nitric oxide,"Late effects of cerebrovascular disease, monoplegia of lower limb affecting nondominant side"
+6,45,14,2020-06-21,193.53,Aquapheresis,"Low birth weight status, less than 500 grams"
+4,98,39,2019-08-30,116.61,Injection of neurolytic agent into sympathetic nerve,Activity involving exercise machines primarily for muscle strengthening
+1,129,31,2020-05-03,211.56,Other percutaneous procedures on biliary tract,Other degenerative diseases of the basal ganglia
+2,9,15,2019-06-11,180.17,Other plastic operations on muscle,"Elderly multigravida, delivered with or without mention of antepartum condition"
+2,190,3,2020-03-18,74.69,"Incision of vessel, abdominal veins","Open wound of buccal mucosa, complicated"
+4,17,35,2021-08-06,144.38,Neurologic examination,Total or complete internal ophthalmoplegia
+1,132,44,2021-06-05,106.83,"Open reduction of fracture without internal fixation, femur",Overweight
+1,34,8,2021-01-21,204.57,Autopsy,Laceration of eyelid involving lacrimal passages
+2,138,24,2021-07-17,174.13,Other diagnostic procedures on prostate and periprostatic tissue,Hemorrhage of rectum and anus
+1,49,42,2020-03-18,68.72,"Revision of total knee replacement, tibial insert (liner)",Heroin causing adverse effects in therapeutic use
+4,234,47,2022-03-07,162.05,"Application of external fixator device, tibia and fibula",Other thalassemia
+4,24,27,2021-12-16,60.42,Other repair or reconstruction of nipple,Failed attempted abortion complicated by delayed or excessive hemorrhage
+3,57,26,2019-10-12,241.59,"Local excision of lesion or tissue of bone, carpals and metacarpals",Cicatricial ectropion
+6,211,11,2021-09-27,67.60,Attachment of pedicle or flap graft to hand,Unspecified disease of nail
+5,249,3,2019-10-20,91.21,Other orthognathic surgery on mandible,Perforation of bile duct
+6,170,24,2019-11-16,190.49,Alcohol rehabilitation and detoxification,"Developmental dislocation of joint, multiple sites"
+4,149,29,2022-03-18,91.32,(Laparoscopic) adjustment of size of adjustable gastric restrictive device,"Cellulitis and abscess of leg, except foot"
+1,141,39,2021-10-08,101.11,Other incision of soft tissue of hand,Acute cystitis
+5,231,48,2019-07-19,163.34,Laparoscopic left hemicolectomy,Lacrimal mucocele
+2,190,20,2020-01-03,246.81,"Biopsy of joint structure, ankle",Accidental poisoning by soap products
+6,239,30,2022-05-05,72.15,Intrathoracic esophagogastrostomy,Nonspecific abnormal auditory function studies
+6,69,31,2019-10-09,228.05,Other external fistulization of esophagus,Other malaise and fatigue
+6,116,18,2020-07-03,210.70,Supportive verbal psychotherapy,Second hand tobacco smoke
+4,205,4,2021-09-15,118.93,Vaginal suspension and fixation with graft or prosthesis,"Mucositis (ulcerative) of cervix, vagina, and vulva"
+3,237,8,2021-01-18,155.90,Other operations on iris,Effects of hunger
+2,160,35,2020-05-15,171.09,Heterotransplant of pancreas,Ovarian pregnancy without intrauterine pregnancy
+4,72,45,2021-07-06,190.44,"Other arthrotomy, other specified sites","Acute myocardial infarction of anterolateral wall, episode of care unspecified"
+3,143,38,2020-03-06,214.48,Other local excision of lesion of duodenum,Performance of wrong operation (procedure) on correct patient
+5,28,17,2019-08-10,204.90,Insertion of aqueous drainage device,"Tuberculosis of eye, unspecified"
+4,13,44,2020-01-17,77.33,"Division of joint capsule, ligament, or cartilage, wrist",Terrorism involving destruction of aircraft
+2,211,20,2020-05-22,121.86,Teleradiotherapy using photons,Sarcoidosis
+4,136,41,2022-05-13,166.41,Salpingectomy with removal of tubal pregnancy,Malignant neoplasm of other specified sites of bladder
+6,60,14,2019-06-29,149.26,Interthoracoscapular amputation,Other injury of chest wall
+4,9,20,2021-06-02,233.47,Suture of laceration of other part of mouth,"Other immediate postpartum hemorrhage, delivered, with mention of postpartum complication"
+6,44,38,2021-07-12,101.99,Laparoscopic reimplantation of ovary,Sprain of carpal (joint) of wrist
+1,216,39,2022-03-10,186.04,Closed biopsy of uterus,Toxic myoneural disorders
+1,103,43,2020-10-28,186.49,Removal of intraluminal foreign body from vagina without incision,Iatrogenic carnitine deficiency
+6,22,39,2019-09-06,130.73,"Insertion of bone growth stimulator, carpals and metacarpals","Mantle cell lymphoma, lymph nodes of multiple sites"
+6,43,23,2021-04-05,234.31,Noninvasive programmed electrical stimulation [NIPS],"Peripheral neuritis in pregnancy, delivered, with or without mention of antepartum condition"
+4,85,40,2020-03-09,135.54,"Local excision of lesion or tissue of bone, tibia and fibula",Other specified disorders of nervous system
+4,15,22,2021-04-06,133.34,Local excision of other lesion or tissue of stomach,Closed dislocation of tarsometatarsal (joint)
+4,76,26,2022-02-07,136.94,Other tendon transposition,Osteopoikilosis
+3,94,20,2021-03-22,228.57,Intrauterine transfusion,Injury to unspecified blood vessel of head and neck
+1,212,38,2021-10-20,140.36,Control of (postoperative) hemorrhage of anus,Trans-sexualism with heterosexual history
+3,176,48,2021-03-26,220.42,"Implantation or replacement of cochlear prosthetic device, not otherwise specified","Open wound of hip and thigh, complicated"
+3,193,12,2019-06-10,224.90,Repair of blepharoptosis by other techniques,Cholesterolosis of gallbladder
+2,160,28,2021-08-08,156.64,"Osteoclasis, unspecified site",Folds and rupture of bowman's membrane
+1,12,24,2019-10-21,137.36,"Division of joint capsule, ligament, or cartilage, foot and toe",Benign neoplasm of choroid
+4,2,2,2021-01-16,155.11,Intranasal antrotomy,Sector or arcuate visual field defects
+4,24,5,2020-06-03,135.21,Percutaneous aspiration of prostate,"Tuberculous fibrosis of lung, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically"
+4,128,18,2020-03-06,63.61,Open biopsy of thyroid gland,Closed fracture of hamate [unciform] bone of wrist
+2,85,9,2021-11-03,248.02,Open and other replacement of tricuspid valve,"Tuberculosis of intrathoracic lymph nodes, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically"
+1,139,31,2021-08-30,147.25,Repair of bladder exstrophy,"Other open skull fracture with subarachnoid, subdural, and extradural hemorrhage, with prolonged [more than 24 hours] loss of consciousness, without return to pre-existing conscious level"
+6,44,32,2020-02-03,76.65,Narcoanalysis,Vincent's angina
+5,21,39,2019-09-19,102.12,Other pancreatotomy,Surveillance of intrauterine contraceptive device
+4,78,31,2021-09-17,86.01,Flexible sigmoidoscopy,"Barotrauma, otitic"
+6,120,19,2020-11-07,174.45,Excision of skin for graft,Personal history of allergy to other specified medicinal agents
+1,59,17,2020-07-24,134.36,"Laparoscopic repair of inguinal hernia with graft or prosthesis, not otherwise specified",Monocular exotropia with V pattern
+2,158,43,2021-09-14,88.62,Destruction of chorioretinal lesion by radiation therapy,Acute pancreatitis
+3,61,36,2019-08-02,172.79,"Closed reduction of fracture without internal fixation, humerus","Pregnancy examination or test, negative result"
+5,64,37,2020-04-20,106.89,Insertion or replacement of pedicle-based dynamic stabilization device(s),"Motor vehicle traffic accident due to loss of control, without collision on the highway, injuring passenger in motor vehicle other than motorcycle"
+3,228,27,2019-07-31,212.85,Other hand muscle transposition,Acquired total absence of pancreas
+1,48,36,2021-05-21,221.14,Bilateral vulvectomy,"Cleft lip, unilateral, incomplete"
+1,33,21,2021-12-05,190.42,"Incision of heart, not otherwise specified",Blepharophimosis
+6,131,21,2020-09-15,66.90,Excision of periprostatic tissue,"Unspecified monoarthritis, other specified sites"
+5,170,23,2021-06-18,94.56,Nephrotomy,"Paranoid type schizophrenia, unspecified"
+6,77,43,2021-09-11,118.40,Operations on eustachian tube,"Burn [any degree] involving 90 percent or more of body surface with third degree burn, 40-49%"
+3,185,7,2019-07-12,217.96,Diagnostic amniocentesis,"Other nongonococcal urethritis, unspecified"
+1,249,27,2019-10-05,124.92,Thoracoscopic total excision of thymus,"Low birth weight status, less than 500 grams"
+5,204,29,2022-04-08,230.79,Repair of current obstetric laceration of corpus uteri,"Open fractures involving skull or face with other bones, with other and unspecified intracranial hemorrhage, with loss of consciousness of unspecified duration"
+2,226,30,2021-04-22,142.79,Other auditory and vestibular function tests,Other noncollision motor vehicle traffic accident injuring driver of motor vehicle other than motorcycle
+1,229,31,2020-06-03,233.66,Thermography of other sites,Allergy to eggs
+6,12,14,2021-01-17,65.36,Other injection of therapeutic substance into kidney,Other cataclysmic earth surface movements and eruptions
+3,174,43,2019-08-30,126.40,Marsupialization of pancreatic cyst,Unspecified disease of spinal cord
+3,157,14,2021-04-11,233.21,Biopsy of lymphatic structure,Other agents affecting blood constituents causing adverse effects in therapeutic use
+1,9,47,2021-03-15,202.56,Homograft to skin,Post-osseointegration biological failure of dental implant
+3,166,26,2020-02-05,203.82,"Limb shortening procedures, tarsals and metatarsals",Carcinoma in situ of other and unspecified parts of uterus
+2,243,22,2021-10-02,179.77,"Insertion of spinal disc prosthesis, not otherwise specified","Burn of unspecified site, unspecified degree"
+4,245,49,2021-04-17,71.48,Total esophagectomy,Benign neoplasm of other specified parts of eye
+3,87,9,2021-08-23,208.20,Excision of lesion of iris,"Spontaneous abortion, complicated by renal failure, complete"
+2,133,48,2021-10-13,84.61,"Incision of mouth, unspecified structure",Acute pulmonary edema due to fumes and vapors
+2,173,50,2019-11-30,187.07,Other tomography of head,Contusion of heart without mention of open wound into thorax
+6,160,20,2020-01-28,142.56,Reconstruction of external auditory canal,"Other specified procedures as the cause of abnormal reaction of patient, or of later complication, without mention of misadventure at time of procedure"
+1,148,29,2019-09-25,77.72,Other diagnostic procedures on cervix,Rh incompatibility with hemolytic transfusion reaction not specified as acute or delayed
+6,76,43,2021-01-13,99.45,Other and open bilateral repair of indirect inguinal hernia with graft or prosthesis,Poisoning by parathyroid and parathyroid derivatives
+3,26,25,2019-10-19,169.49,Other and unspecified radical abdominal hysterectomy,Intestinal bypass or anastomosis status
+1,144,33,2022-05-24,90.70,Respiratory medication administered by nebulizer,Unspecified disorder of tympanic membrane
+1,198,16,2020-03-29,194.81,"Other soft tissue x-ray of face, head, and neck","Periostitis, without mention of osteomyelitis, ankle and foot"
+1,162,4,2020-05-22,236.57,Other operations on spinal cord and spinal canal structures,"Tuberculosis of vertebral column, bacteriological or histological examination unknown (at present)"
+5,242,45,2019-09-11,157.63,"Sequestrectomy, patella","Closed dislocation, vertebra, other"
+4,127,38,2019-12-16,94.54,"Other local excision or destruction of lesion of joint, hip","Bipolar I disorder, most recent episode (or current) depressed, severe, specified as with psychotic behavior"
+6,50,12,2021-03-10,219.94,Sphenopalatine ganglionectomy,Pathologic fracture of other specified site
+4,12,36,2021-02-03,71.76,"Microscopic examination of specimen from female genital tract, bacterial smear","Allergy, unspecified, not elsewhere classified"
+5,234,25,2021-02-17,108.98,Fetal blood sampling and biopsy,"Arthropathy associated with other infectious and parasitic diseases, lower leg"
+4,138,27,2021-06-30,203.48,Removal of foreign body from vulva without incision,Malignant carcinoid tumor of the stomach
+1,246,6,2022-02-01,101.12,Removal of impacted feces,Dracontiasis
+6,136,15,2022-01-03,173.26,Application of orthodontic appliance,"Amebiasis, unspecified"
+6,213,44,2021-01-31,115.08,Repair of heart assist system,"Cholesteatoma, unspecified"
+1,66,47,2020-02-08,108.13,Delayed suture of flexor tendon of hand,Vascular disorders of kidney
+2,66,35,2019-06-04,237.40,Diagnostic aspiration of vitreous,"Major depressive affective disorder, recurrent episode, in partial or unspecified remission"
+1,51,31,2021-10-23,201.32,Suture of laceration of duodenum,"Calculus of lower urinary tract, unspecified"
+2,220,43,2019-11-04,215.49,Infusion of vasopressor agent,"Calculus of gallbladder and bile duct with other cholecystitis, without mention of obstruction"
+4,154,44,2020-01-22,211.04,"Division of joint capsule, ligament, or cartilage, hip",Antiphospholipid antibody with hemorrhagic disorder
+3,16,20,2021-04-18,149.35,Rhinoscopy,Borderline leprosy [group B]
+1,134,17,2020-11-07,114.21,Repair of hammer toe,"Blisters, epidermal loss [second degree] of wrist"
+5,160,3,2019-09-04,113.75,Endovascular embolization or occlusion of vessel(s) of head or neck using bare coils,Congenital hypogammaglobulinemia
+6,133,45,2020-04-19,98.45,"Local excision of lesion or tissue of bone, scapula, clavicle, and thorax [ribs and sternum]","Congenital or acquired abnormality of vagina, antepartum condition or complication"
+4,210,37,2021-01-08,170.14,Angiocardiography of venae cavae,Extravasation of urine
+6,159,39,2020-05-09,154.10,Dermal regenerative graft,"Open dislocation, sixth cervical vertebra"
+3,194,46,2021-09-18,209.17,Tendon pulley reconstruction of hand,Full-thickness skin loss [third degree NOS] of knee
+2,117,23,2020-05-11,233.82,Heart transplantation,Vascular complications of renal artery
+5,54,1,2020-10-18,140.66,Repair of aneurysm of coronary vessel,"Other injury to small intestine, with open wound into cavity"
+3,208,15,2019-10-02,132.85,Episiotomy,Chronic inversion of uterus
+4,198,31,2019-10-13,169.32,Other operations on ciliary body,"Vascular dementia, uncomplicated"
+2,145,30,2019-10-17,153.08,Intra-operative neurophysiologic monitoring,Accidental poisoning by petroleum solvents
+6,45,13,2020-09-25,224.95,Arterial catheterization,Other acne
+5,148,13,2020-05-27,197.11,Wide excision of lesion of lip,Personal history of unspecified circulatory disease
+1,215,38,2021-11-24,145.20,"Incision of heart, not otherwise specified","Epiphora, unspecified as to cause"
+4,139,29,2021-05-23,201.76,Pressurized treatment of venous bypass graft [conduit] with pharmaceutical substance,"Twin pregnancy, delivered, with or without mention of antepartum condition"
+2,173,38,2020-08-09,182.51,"Excision of bone for graft, scapula, clavicle, and thorax [ribs and sternum]",Obscure cardiomyopathy of Africa
+5,83,46,2019-08-21,189.18,Spinal blood patch,Exudative cyst of pars plana
+1,147,29,2019-08-27,205.14,Excision of tonsil tag,"Papilledema, unspecified"
+1,102,15,2021-11-26,224.88,Insertion or replacement of (cement) spacer,"Mental disorders of mother, antepartum condition or complication"
+3,166,44,2019-11-29,79.16,Interthoracoscapular amputation,"Intrauterine death, affecting management of mother, unspecified as to episode of care or not applicable"
+2,241,50,2022-02-03,209.40,Continuous invasive mechanical ventilation for less than 96 consecutive hours,Normal delivery
+5,104,33,2021-07-18,195.57,Incision of mastoid,"Cortex (cerebral) laceration without mention of open intracranial wound, with prolonged [more than 24 hours] loss of consciousness and return to pre-existing conscious level"
+4,142,30,2019-07-15,149.12,Other and open repair of other hernia of anterior abdominal wall with graft or prosthesis,Terrorism involving other means
+6,114,3,2020-01-13,202.41,"Arthroscopy, wrist","Malignant histiocytosis, intrathoracic lymph nodes"
+6,125,32,2020-11-17,65.97,Open and other replacement of tricuspid valve with tissue graft,"Tuberculosis of knee, bacteriological or histological examination unknown (at present)"
+2,76,29,2019-07-03,73.09,Low forceps operation with episiotomy,Special screening examination for other specified viral diseases
+1,47,33,2020-10-02,63.35,Repair of rectocele,Mycotic mycetomas
+2,195,46,2019-07-20,126.47,Other cholangiogram,Dysuria
+4,62,15,2020-07-19,147.17,Repair of other current obstetric laceration,Other early skin lesions of yaws
+5,241,4,2019-08-13,86.19,Closed [percutaneous] [needle] biopsy of cranial or peripheral nerve or ganglion,Female genital mutilation Type II status
+6,37,50,2020-11-02,210.28,Size reduction plastic operation,"Congenital dislocation of hip, unilateral"
+1,240,33,2021-04-24,248.04,Nasal function study,Severe birth asphyxia
+4,205,27,2020-10-20,108.00,Administration of diphtheria toxoid,Supervision of high-risk pregnancy with history of trophoblastic disease
+5,193,31,2021-02-11,111.55,Aortography,Vascular disorders of male genital organs
+4,92,39,2021-11-24,63.32,Other diagnostic procedures on joint structures,Cholera due to vibrio cholerae
+3,62,16,2020-05-03,245.40,Collection of sperm for artificial insemination,"Accidental cut, puncture, perforation or hemorrhage during endoscopic examination"
+4,89,39,2019-08-03,138.97,Ureteral meatotomy,Closed fracture of pubis
+6,34,17,2021-05-23,135.47,Vaginal construction with graft or prosthesis,Retained cholelithiasis following cholecystectomy
+2,82,32,2019-11-08,126.96,Other operations on valves of heart,Papanicolaou smear of vagina with low grade squamous intraepithelial lesion (LGSIL)
+2,139,41,2021-08-27,219.40,Other excision or destruction of lesion or tissue of larynx,Other serum reaction
+1,3,23,2020-05-29,229.18,"Microscopic examination of specimen from ear, nose, throat, and larynx, culture","Articular cartilage disorder, hand"

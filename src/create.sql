@@ -57,7 +57,7 @@ CREATE TABLE animal (
     id INTEGER NOT NULL AUTO_INCREMENT PRIMARY KEY,
     nome VARCHAR(50),
     especie VARCHAR(50),
-    raca VARCHAR(10),
+    raca VARCHAR(20),
     nascimento DATE
 );
 
