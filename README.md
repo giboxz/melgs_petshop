@@ -9,8 +9,7 @@ Atividade apresentando a utilização dos conceitos e recursos da disciplina Ban
  - VSCode para o desenvolvimento do modelo logico do banco.
  - MySql para a construção do banco de dados.
  - Mockaroo para a geração dos dados.
- - ⚠️ Dashboard em construção ⚠️
-
+ - Dashboard.
 ----
 
 Neste repositório, constam os seguintes arquivos:
