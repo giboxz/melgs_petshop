@@ -4,18 +4,19 @@ Atividade apresentando a utilização dos conceitos e recursos da disciplina Ban
 
 ----
 
-# Neste projeto foi utilizado as seguintes ferramentas:
+# Neste projeto foram utilizadas as seguintes ferramentas:
  - BRModelo para construção do modelo conceitual do banco de dados.
+ - Lucid.App para a criação do diagrama ER.
  - VSCode para o desenvolvimento do modelo logico do banco.
  - MySql para a construção do banco de dados.
  - Mockaroo para a geração dos dados.
- - Dashboard.
+ - Dashboard (Power BI).
 ----
 
 Neste repositório, constam os seguintes arquivos:
  - Integrantes da equipe; 
- - Modelos conceitual, lógico e físico;
- - Arquivos json e tabelas de formatação para o mockaroo.
+ - Modelos conceitual, lógico e físico + Diagrama ER;
+ - Arquivos json e cs + tabelas de formatação para o mockaroo.
  - Dashboard.
 
 
